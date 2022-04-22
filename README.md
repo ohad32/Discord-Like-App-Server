@@ -1,1 +1,1 @@
-# Discord-2.0-server
+# Discord Like App-server
